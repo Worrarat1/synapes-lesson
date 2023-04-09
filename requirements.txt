@@ -3,3 +3,6 @@ uvicorn==0.21.1
 scikit-learn==1.2.2
 pandas==2.0.0
 joblib==1.2.0
+imblearn
+shap==0.41.0
+lime==0.2.0.1
